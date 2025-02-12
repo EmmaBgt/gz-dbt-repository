@@ -16,6 +16,8 @@ sources:
              description: id for each product 
            - name: revenue
              description: revenue generated
+           - name: quantity
+             description: quantity 
         tests:
           - unique:
               column_name: "(orders_id || '-' || pdt_id)"
