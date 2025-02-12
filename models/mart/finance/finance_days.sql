@@ -1,12 +1,3 @@
--- Date
--- Total number of transactions
--- Total revenue
--- Avereage Basket
--- Operational Margin
--- Total purchase cost
--- Total shipping fees
--- Total log costs
--- Total quantity of products sold.
 
 SELECT
 date_date
